@@ -3,3 +3,7 @@ export * from './PlayCircleIcon';
 export * from './PauseCircleIcon';
 export * from './FastRewindIcon';
 export * from './FastForwardIcon';
+export * from './SkipNextIcon';
+export * from './SkipPreviousIcon';
+export * from './ShuflleIcon';
+export * from './RepeatIcon';
